@@ -10,4 +10,6 @@
 /apertium-ell.pc.in -text
 /autogen.sh -text
 /configure.ac -text
+dev/greek-wiktionary-scraper.py -text
+dev/wiktionary.01.speling -text
 /modes.xml -text
