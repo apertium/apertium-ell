@@ -14,4 +14,5 @@
 /configure.ac -text
 dev/greek-wiktionary-scraper.py -text
 dev/wiktionary.01.speling -text
+/ell.prob -text svneol=unset#unset
 /modes.xml -text
