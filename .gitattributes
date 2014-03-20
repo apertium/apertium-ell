@@ -5,9 +5,11 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-ell.ell.acx -text
 /apertium-ell.ell.dix -text
 /apertium-ell.ell.rlx -text
 /apertium-ell.pc.in -text
+/apertium-ell.post-ell.dix -text
 /autogen.sh -text
 /configure.ac -text
 dev/greek-wiktionary-scraper.py -text
