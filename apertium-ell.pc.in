@@ -1,7 +1,10 @@
-prefix=/home/fran/local
+prefix=@prefix@
 exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-ell
+srcdir=@datarootdir@/apertium/apertium-ell
 
 Name: apertium-ell
 Description: Finite-state morphological transducer and constraint grammar for Greek 
-Version: 0.1.0
+Version: @VERSION@
+
