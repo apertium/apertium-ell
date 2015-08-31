@@ -38,6 +38,7 @@
     <sdef n="itg"    c="Interrogative"/>
     <sdef n="neg"    c="Negative"/>
     <sdef n="pri"    c="Present indicative"/>
+    <sdef n="inf"    c="Non-finite"/>
     <sdef n="pii"    c="Past imperfect (continuous)"/>
     <sdef n="aor"    c="Aorist"/>
     <sdef n="past"   c="Past"/>
@@ -11051,6 +11052,1051 @@
       <e><p><l>υστάζοντας</l><r>υστάζω<s n="vblex"/><s n="ger"/></r></p></e>
     </pardef>
 
+
+<!-- to be checked -->
+   <pardef n="δι/αβλέπω__vblex">
+      <e><p>          <l>έβλεπα</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έβλεψα</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αβλέπαμε</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>είδε</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αβλεπόταν</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έβλεπε</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έβλεπαν</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έβλεψαν</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>είδαν</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αβλέψει</l><r>αβλέπω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>αβλέψω</l><r>αβλέπω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αβλέψουμε</l><r>αβλέπω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αβλέψει</l><r>αβλέπω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αβλέψουν</l><r>αβλέπω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αβλέπω</l><r>αβλέπω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αβλέπουμε</l><r>αβλέπω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αβλέπετε</l><r>αβλέπω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αβλέπει</l><r>αβλέπω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αβλέπεται</l><r>αβλέπω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>είδει</l><r>αβλέπω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αβλέπουν</l><r>αβλέπω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αβλέποντας</l><r>αβλέπω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+   
+    <pardef n="ενσωμ/ατώνω__vblex">
+      <e><p>          <l>άτωσα</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ατώσαμε</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατωθήκαμε</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώσατε</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατωθήκατε</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώνατε</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώθηκε</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άτωσε</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άτωνε</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ατωνόταν</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ατώθηκαν</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώνονταν</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άτωσαν</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άτωναν</l><r>ατώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατωθεί</l><r>ατώνω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ατώσει</l><r>ατώνω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ατώσω</l><r>ατώνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ατώσουμε</l><r>ατώνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατωθούμε</l><r>ατώνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώσεις</l><r>ατώνω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ατώσετε</l><r>ατώνω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώσει</l><r>ατώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ατωθεί</l><r>ατώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ατωθούν</l><r>ατώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώσουν</l><r>ατώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώνουμε</l><r>ατώνω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώνετε</l><r>ατώνω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώνει</l><r>ατώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ατώνεται</l><r>ατώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ατώνουν</l><r>ατώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώνονται</l><r>ατώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ατώνοντας</l><r>ατώνω<s n="vblex"/><s n="ger"/></r></p></e>
+      <e><p>          <l>ατώνοντάς</l><r>ατώνω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+<pardef n="μ/ετρώ__vblex">
+      <e><p>          <l>έτρησα</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρήσαμε</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρούσαμε</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρήσατε</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρούσατε</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρήθηκε</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρούσε</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έτρησε</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έτρησαν</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρήθηκαν</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρούσαν</l><r>ετρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρηθεί</l><r>ετρώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ετρήσει</l><r>ετρώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ετρήσω</l><r>ετρώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρηθώ</l><r>ετρώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρήσουμε</l><r>ετρώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρήσεις</l><r>ετρώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρηθείτε</l><r>ετρώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρήσετε</l><r>ετρώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρηθεί</l><r>ετρώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρήσει</l><r>ετρώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρηθούν</l><r>ετρώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρήσουν</l><r>ετρώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρώ</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετράω</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετράμε</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρούμε</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετράς</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετράτε</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετράται</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετριέται</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρά</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετράει</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρείται</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρα</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ετρούν</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρώνται</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρούνται</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετράνε</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετριώνται</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετριούνται</l><r>ετρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ετρώντας</l><r>ετρώ<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+<pardef n="ταξ/ιδεύω__vblex">
+      <e><p>          <l>ίδεψα</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίδευα</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίδευσα</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδέψαμε</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδεύαμε</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίδευες</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδέψατε</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίδευε</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίδεψε</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίδεψαν</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίδευαν</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίδευσαν</l><r>ιδεύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδέψει</l><r>ιδεύω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ιδέψω</l><r>ιδεύω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδεύσω</l><r>ιδεύω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδέψουμε</l><r>ιδεύω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδεύσουμε</l><r>ιδεύω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδέψεις</l><r>ιδεύω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδέψετε</l><r>ιδεύω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδέψει</l><r>ιδεύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδεύσει</l><r>ιδεύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδέψουν</l><r>ιδεύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδεύσουν</l><r>ιδεύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδεύω</l><r>ιδεύω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδεύουμε</l><r>ιδεύω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδεύεις</l><r>ιδεύω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδεύετε</l><r>ιδεύω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδεύει</l><r>ιδεύω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδεύουν</l><r>ιδεύω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδεύοντας</l><r>ιδεύω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+ <pardef n="λησμ/ονώ__vblex">
+      <e><p>          <l>όνησα</l><r>ονώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ονήσαμε</l><r>ονώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονήσατε</l><r>ονώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονήθηκε</l><r>ονώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>όνησε</l><r>ονώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ονήθηκαν</l><r>ονώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>όνησαν</l><r>ονώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονήσει</l><r>ονώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ονηθεί</l><r>ονώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ονήσω</l><r>ονώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ονήσουμε</l><r>ονώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονήσετε</l><r>ονώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονηθεί</l><r>ονώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ονήσει</l><r>ονώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ονηθούν</l><r>ονώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονήσουν</l><r>ονώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονώ</l><r>ονώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ονούμε</l><r>ονώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονείτε</l><r>ονώ<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονείται</l><r>ονώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ονεί</l><r>ονώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ονιέται</l><r>ονώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ονούνται</l><r>ονώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονούν</l><r>ονώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονιούνται</l><r>ονώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ονώντας</l><r>ονώ<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+  
+<pardef n="αν/αλώνω__vblex">
+      <e><p>          <l>άλωσα</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλωθήκαμε</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλώσαμε</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλωνόμαστε</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλισκόμαστε</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλώσατε</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άλωσε</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλώθηκε</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άλωνε</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλώθηκαν</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άλωσαν</l><r>αλώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλωθεί</l><r>αλώνω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>αλώσει</l><r>αλώνω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>αλώσω</l><r>αλώνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλωθώ</l><r>αλώνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλωθούμε</l><r>αλώνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλώσουμε</l><r>αλώνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλώσει</l><r>αλώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλωθεί</l><r>αλώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλωθούν</l><r>αλώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλώσουν</l><r>αλώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλώνω</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλώνουμε</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλώνεστε</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλώνεται</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλώνει</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλίσκεται</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλίσκει</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλώνονται</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλώνουν</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλίσκονται</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλίσκουν</l><r>αλώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+    </pardef>
+
+  <pardef n="αντ/αλλάζω__vblex">
+      <e><p>          <l>άλλασσα</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άλλαξα</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάξαμε</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσαμε</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άλλαξε</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άλλασσε</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάχθηκε</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάχθηκαν</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άλλαξαν</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσονταν</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάχτηκαν</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ήλλαξαν</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάξει</l><r>αλλάζω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>αλλαγεί</l><r>αλλάζω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>αλλάξω</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάξουμε</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλαγεί</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάξει</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλαχθεί</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλαγούν</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάξουν</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλαχθούν</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσω</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάσσουμε</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάζουμε</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσετε</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσει</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάσσεται</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάσσουν</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσονται</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάζουν</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσοντας</l><r>αλλάζω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+  <pardef n="αντ/αλλάζω__vblex">
+      <e><p>          <l>άλλασσα</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άλλαξα</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάξαμε</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσαμε</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άλλαξε</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άλλασσε</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάχθηκε</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάχθηκαν</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άλλαξαν</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσονταν</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάχτηκαν</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ήλλαξαν</l><r>αλλάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάξει</l><r>αλλάζω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>αλλαγεί</l><r>αλλάζω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>αλλάξω</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάξουμε</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλαγεί</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάξει</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλαχθεί</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλαγούν</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάξουν</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλαχθούν</l><r>αλλάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσω</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάσσουμε</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάζουμε</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσετε</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσει</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάσσεται</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αλλάσσουν</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσονται</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάζουν</l><r>αλλάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αλλάσσοντας</l><r>αλλάζω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+<pardef n="δ/ιδάσκω__vblex">
+      <e><p>          <l>ίδασκα</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάχθηκα</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίδαξα</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδασκόμουν</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδασκόμαστε</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδαχθήκαμε</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδαχτήκαμε</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδασκόμασταν</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάξαμε</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίδασκες</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάξατε</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίδαξε</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάχθηκε</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίδασκε</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάχτηκε</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίδαξαν</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάχθηκαν</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάσκονταν</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίδασκαν</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάχτηκαν</l><r>ιδάσκω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάξει</l><r>ιδάσκω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ιδαχθεί</l><r>ιδάσκω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ιδαχτεί</l><r>ιδάσκω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ιδαχθώ</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάξω</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδαχθούμε</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδαχτούμε</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάξουμε</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάξεις</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάξετε</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδαχθείτε</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδαχθεί</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάξει</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδαχτεί</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάξουν</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδαχθούν</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδαχτούν</l><r>ιδάσκω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάσκω</l><r>ιδάσκω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάσκουμε</l><r>ιδάσκω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάσκεις</l><r>ιδάσκω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάσκετε</l><r>ιδάσκω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάσκεστε</l><r>ιδάσκω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάσκει</l><r>ιδάσκω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάσκεται</l><r>ιδάσκω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιδάσκονται</l><r>ιδάσκω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάσκουν</l><r>ιδάσκω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιδάσκοντας</l><r>ιδάσκω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+ <pardef n="δε/ίχνω__vblex">
+      <e><p>          <l>έιξα</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έιχνα</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίξαμε</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίχναμε</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έιξες</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίξατε</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίχνατε</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έιξε</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έιχνε</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίχθηκε</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιχνόταν</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έιχναν</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έιξαν</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίξανε</l><r>ίχνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίξει</l><r>ίχνω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ιχθεί</l><r>ίχνω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ίξω</l><r>ίχνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίξουμε</l><r>ίχνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίχτούμε</l><r>ίχνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίξεις</l><r>ίχνω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίξετε</l><r>ίχνω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίξει</l><r>ίχνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιχθεί</l><r>ίχνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιχτεί</l><r>ίχνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίξουν</l><r>ίχνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιχθούν</l><r>ίχνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίχνω</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίχνουμε</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίχνεις</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίχνετε</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίχνεστε</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίχνει</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ικνύεται</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίχνεται</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ικνύει</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίχνουν</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ικνύουν</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίχνούν</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίχνονται</l><r>ίχνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίχνοντας</l><r>ίχνω<s n="vblex"/><s n="ger"/></r></p></e>
+      <e><p>          <l>ίχνοντάς</l><r>ίχνω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+ <pardef n="αιτιολ/ογώ__vblex">
+      <e><p>          <l>όγησα</l><r>ογώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογούσα</l><r>ογώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογήσαμε</l><r>ογώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ογήθηκες</l><r>ογώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογούσε</l><r>ογώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>όγησε</l><r>ογώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογήθηκε</l><r>ογώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογείτο</l><r>ογώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογούσαν</l><r>ογώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>όγησαν</l><r>ογώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ογήσει</l><r>ογώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ογηθεί</l><r>ογώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ογήσω</l><r>ογώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογήσουμε</l><r>ογώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ογήσεις</l><r>ογώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογησεις</l><r>ογώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογήσετε</l><r>ογώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ογήσει</l><r>ογώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογηθεί</l><r>ογώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογηθούν</l><r>ογώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ογήσουν</l><r>ογώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ογώ</l><r>ογώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογούμε</l><r>ογώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ογείτε</l><r>ογώ<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ογείται</l><r>ογώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογεί</l><r>ογώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ογούν</l><r>ογώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ογούνται</l><r>ογώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ογώντας</l><r>ογώ<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+   <pardef n="ξεπ/ερνώ__vblex">
+      <e><p>          <l>έρασα</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερνούσα</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εράσαμε</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εραστήκαμε</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερνούσαμε</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έρασες</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εράσατε</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έρασε</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερνιόταν</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εράστηκε</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερνούσε</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εράσθηκε</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερνούσαν</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έρασαν</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εράστηκαν</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερνιόνταν</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερνιόντουσαν</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εράσθηκαν</l><r>ερνώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εράσει</l><r>ερνώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ερασθεί</l><r>ερνώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>εραστεί</l><r>ερνώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>εράσω</l><r>ερνώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εράσουμε</l><r>ερνώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εραστούμε</l><r>ερνώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εράσετε</l><r>ερνώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εραστεί</l><r>ερνώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εράσει</l><r>ερνώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερασθεί</l><r>ερνώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εράσουν</l><r>ερνώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εραστούν</l><r>ερνώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερασθούν</l><r>ερνώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερνάμε</l><r>ερνώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερνούμε</l><r>ερνώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερνά</l><r>ερνώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερνάει</l><r>ερνώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερνιέται</l><r>ερνώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερνάται</l><r>ερνώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερνούν</l><r>ερνώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερνιούνται</l><r>ερνώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερνάνε</l><r>ερνώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερνώντας</l><r>ερνώ<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+   
+ <pardef n="φ/εύγω__vblex">
+      <e><p>          <l>έυγα</l><r>εύγω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έευγα</l><r>εύγω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ύγαμε</l><r>εύγω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εύγαμε</l><r>εύγω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έυγες</l><r>εύγω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ύγατε</l><r>εύγω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έυγε</l><r>εύγω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έευγε</l><r>εύγω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έευγαν</l><r>εύγω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έυγαν</l><r>εύγω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ύγει</l><r>εύγω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ύγω</l><r>εύγω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ύγουμε</l><r>εύγω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ύγεις</l><r>εύγω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ύγετε</l><r>εύγω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ύγει</l><r>εύγω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ύγουν</l><r>εύγω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εύγω</l><r>εύγω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εύγουμε</l><r>εύγω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εύγεις</l><r>εύγω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εύγετε</l><r>εύγω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εύγει</l><r>εύγω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εύγουν</l><r>εύγω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εύγοντας</l><r>εύγω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+
+ <pardef n="χ/αρίζω__vblex">
+      <e><p>          <l>αρίσαμε</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίζαμε</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αριστήκαμε</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άρισες</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αρίσατε</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίζατε</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίστηκε</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άρισε</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αρίζονταν</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίστηκαν</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άρισαν</l><r>αρίζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίσει</l><r>αρίζω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>αριστώ</l><r>αρίζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αρίσω</l><r>αρίζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αρίσουμε</l><r>αρίζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αριστούμε</l><r>αρίζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίσετε</l><r>αρίζω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίσει</l><r>αρίζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αριστούν</l><r>αρίζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίσουν</l><r>αρίζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίζω</l><r>αρίζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αρίζουμε</l><r>αρίζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίζετε</l><r>αρίζω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίζει</l><r>αρίζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αρίζεται</l><r>αρίζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αρίζουν</l><r>αρίζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίζονται</l><r>αρίζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αρίζοντας</l><r>αρίζω<s n="vblex"/><s n="ger"/></r></p></e>
+      <e><p>          <l>αρίζοντάς</l><r>αρίζω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+ <pardef n="διαμ/ορφώνω__vblex" v="copiar">
+      <e><p>          <l>όρφωσα</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ορφώσαμε</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφώναμε</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>όρφωσες</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ορφώσατε</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφώθηκε</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>όρφωσε</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ορφωνόταν</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>όρφωνε</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ορφώθηκαν</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφώνονταν</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>όρφωσαν</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>όρφωναν</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφωθεί</l><r>ορφώνω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ορφώσει</l><r>ορφώνω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ορφώσω</l><r>ορφώνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ορφώσουμε</l><r>ορφώνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφώνουμε</l><r>ορφώνω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφώσεις</l><r>ορφώνω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ορφώσετε</l><r>ορφώνω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφωθεί</l><r>ορφώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ορφώσει</l><r>ορφώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ορφώσουν</l><r>ορφώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφωθούν</l><r>ορφώνω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφώνουμε</l><r>ορφώνω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφώνετε</l><r>ορφώνω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφώνει</l><r>ορφώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ορφώνεται</l><r>ορφώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ορφώνονται</l><r>ορφώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφώνουν</l><r>ορφώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφωνουν</l><r>ορφώνω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ορφώνοντας</l><r>ορφώνω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+ <pardef n="κο/ιτάζω__vblex">
+      <e><p>          <l>ιτούσα</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίταξα</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίταζα</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτούσαμε</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάζαμε</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάξαμε</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιταζόμαστε</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάγαμε</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίταξες</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτάξατε</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτούσατε</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάζατε</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίταξε</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίταζε</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτούσαν</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίταζαν</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίταξαν</l><r>ιτάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάξει</l><r>ιτάζω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ιτάξω</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτάξουμε</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιταχτούμε</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάξεις</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτάξετε</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιταχτείτε</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάξει</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιταχτεί</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτάξουν</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιταχτούν</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιταχθούν</l><r>ιτάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάζω</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτάω</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτώ</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτούμε</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάζουμε</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάμε</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάς</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτάζεις</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτάτε</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάζετε</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτά</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτάζει</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτάει</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιτούν</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάζουν</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάνε</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτάζονται</l><r>ιτάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιτώντας</l><r>ιτάζω<s n="vblex"/><s n="ger"/></r></p></e>
+      <e><p>          <l>ιτάζοντας</l><r>ιτάζω<s n="vblex"/><s n="ger"/></r></p></e>
+      <e><p>          <l>ιτάζοντάς</l><r>ιτάζω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+ 
+<pardef n="μ/ένω__vblex">
+      <e><p>          <l>έενα</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έεινα</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>είναμε</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έναμε</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έεινες</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>είνατε</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ένατε</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έεινε</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έενε</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έειναν</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έεναν</l><r>ένω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>είνει</l><r>ένω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>είνω</l><r>ένω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ένουμε</l><r>ένω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>είνουμε</l><r>ένω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>είνετε</l><r>ένω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>είνει</l><r>ένω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>είνουν</l><r>ένω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>είνουνε</l><r>ένω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ένω</l><r>ένω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ένεις</l><r>ένω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ένετε</l><r>ένω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ένει</l><r>ένω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ένουν</l><r>ένω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ένουνε</l><r>ένω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ένοντας</l><r>ένω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+  <pardef n="δρ/ω__vblex">
+      <e><p>          <l>ούσαμε</l><r>ω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άσαμε</l><r>ω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έασες</l><r>ω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άσατε</l><r>ω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έασε</l><r>ω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ούσε</l><r>ω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έασαν</l><r>ω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ούσαν</l><r>ω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άσει</l><r>ω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>άσω</l><r>ω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άσουμε</l><r>ω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άσεις</l><r>ω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άσετε</l><r>ω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άσει</l><r>ω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>άσουν</l><r>ω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ω</l><r>ω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ούμε</l><r>ω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άτε</l><r>ω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>α</l><r>ω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουν</l><r>ω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ώντας</l><r>ω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+   
+   <pardef n="επ/ενδύω__vblex">
+      <e><p>          <l>ένδυσα</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδύαμε</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδύσαμε</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ένδυσες</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδύσατε</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ένδυσε</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδύθηκε</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ένδυε</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδύθηκαν</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ένδυσαν</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ένδυαν</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδύονταν</l><r>ενδύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδύσει</l><r>ενδύω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ενδυθεί</l><r>ενδύω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ενδύσω</l><r>ενδύω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδύσουμε</l><r>ενδύω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδύσεις</l><r>ενδύω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδύσετε</l><r>ενδύω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδύσει</l><r>ενδύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδυθεί</l><r>ενδύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδύσουν</l><r>ενδύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδυθούν</l><r>ενδύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδύουμε</l><r>ενδύω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδύεις</l><r>ενδύω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδύετε</l><r>ενδύω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδύει</l><r>ενδύω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδύεται</l><r>ενδύω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενδύουν</l><r>ενδύω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδύονται</l><r>ενδύω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενδύοντας</l><r>ενδύω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+
+   <pardef n="προσ/χωρώ__vblex">
+      <e><p>          <l>χώρησα</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χωρούσα</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χωρούσαμε</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>χωρήσαμε</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>χωρούσες</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χώρησε</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χωρούσε</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εχώρησε</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χώρησαν</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>χωρούσαν</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχώρησαν</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>χωρήσαν</l><r>χωρώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>χωρήσει</l><r>χωρώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>χωρήσω</l><r>χωρώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χωρήσουμε</l><r>χωρώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>χωρήσεις</l><r>χωρώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χωρήσετε</l><r>χωρώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>χωρήσει</l><r>χωρώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χωρήσουν</l><r>χωρώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>χωρώ</l><r>χωρώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χωρούμε</l><r>χωρώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>χωρείς</l><r>χωρώ<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χωρεί</l><r>χωρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>χωρούν</l><r>χωρώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>χωρώντας</l><r>χωρώ<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+
+   <pardef n="θ/έλω__vblex">
+      <e><p>          <l>ήελα</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έλησα</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ήελά</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ηελα</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ήέλα</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έλαμε</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ελήσαμε</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ήελες</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ελήσατε</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έλατε</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έλησε</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ήελε</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έλησe</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έλησαν</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ήελαν</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έλαν</l><r>έλω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ελήσει</l><r>έλω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ελήσω</l><r>έλω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ελήσεις</l><r>έλω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ελήσετε</l><r>έλω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ελήσει</l><r>έλω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ελήσουν</l><r>έλω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έλω</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ελω</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έλουμε</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έλομε</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ελήσουμε</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έλoυμε</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έλεις</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έλετε</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έλει</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έλουν</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ελουν</l><r>έλω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έλοντας</l><r>έλω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+  <pardef n="δοκ/ιμάζω__vblex">
+      <e><p>          <l>ίμασα</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμάσαμε</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμάζαμε</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμαστήκαμε</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίμασες</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμάσατε</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμάστηκε</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίμασε</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμαζόταν</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίμαζε</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμάσθηκε</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμάσθηκαν</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμάστηκαν</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίμασαν</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίμαζαν</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμαζόνταν</l><r>ιμάζω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμαστεί</l><r>ιμάζω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ιμασθεί</l><r>ιμάζω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ιμάσει</l><r>ιμάζω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ιμάσω</l><r>ιμάζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμάσουμε</l><r>ιμάζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμαστούμε</l><r>ιμάζω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμάσετε</l><r>ιμάζω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμάσει</l><r>ιμάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμαστεί</l><r>ιμάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμασθεί</l><r>ιμάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμαστούν</l><r>ιμάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμάσουν</l><r>ιμάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμασθούν</l><r>ιμάζω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμαζω</l><r>ιμάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμάζω</l><r>ιμάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμάζουμε</l><r>ιμάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμαζόμαστε</l><r>ιμάζω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμάζετε</l><r>ιμάζω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμάζεται</l><r>ιμάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμάζει</l><r>ιμάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιμάζονται</l><r>ιμάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμάζουν</l><r>ιμάζω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιμάζοντας</l><r>ιμάζω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+ <pardef n="μετ/αφέρω__vblex">
+      <e><p>          <l>έφερα</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αφέραμε</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφερθήκαμε</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφερόμαστε</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έφερες</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αφέρατε</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφέρθηκε</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έφερε</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εφέρθη</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αφερόταν</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έφεραν</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφέρονταν</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφέρθηκαν</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>άφεραν</l><r>αφέρω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφερθεί</l><r>αφέρω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>αφέρει</l><r>αφέρω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>αφερθώ</l><r>αφέρω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αφέρουμε</l><r>αφέρω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφερθούμε</l><r>αφέρω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφέρετέ</l><r>αφέρω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφέρετε</l><r>αφέρω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφερθεί</l><r>αφέρω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αφερθούν</l><r>αφέρω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφέρθουν</l><r>αφέρω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφέρω</l><r>αφέρω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αφέρεις</l><r>αφέρω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αφέρεται</l><r>αφέρω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αφέρει</l><r>αφέρω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>αφέρονται</l><r>αφέρω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφέρουν</l><r>αφέρω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>αφέροντας</l><r>αφέρω<s n="vblex"/><s n="ger"/></r></p></e>
+      <e><p>          <l>αφέροντάς</l><r>αφέρω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+ <pardef n="ονειρε/ύομαι__vblex">
+      <e><p>          <l>ύτηκα</l><r>ύομαι<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>υόμουν</l><r>ύομαι<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>υόμαστε</l><r>ύομαι<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>υόσουν</l><r>ύομαι<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ύτηκε</l><r>ύομαι<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>υόταν</l><r>ύομαι<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>υόμασταν</l><r>ύομαι<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ύονταν</l><r>ύομαι<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ύτηκαν</l><r>ύομαι<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>υτεί</l><r>ύομαι<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>υτώ</l><r>ύομαι<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>υτούμε</l><r>ύομαι<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>υτείτε</l><r>ύομαι<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>υτεί</l><r>ύομαι<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>υτούν</l><r>ύομαι<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ύομαι</l><r>ύομαι<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ύεσαι</l><r>ύομαι<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ύεστε</l><r>ύομαι<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ύεται</l><r>ύομαι<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ύονται</l><r>ύομαι<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+    </pardef>
+
+  <pardef n="παραδ/έχομαι__vblex">
+      <e><p>          <l>έχθηκα</l><r>έχομαι<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έχτηκα</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εχόμαστε</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχόμασταν</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχθήκαμε</l><r>έχομαι<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχτήκαμε</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έχθηκες</l><r>έχομαι<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έχτηκες</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εχθήκατε</l><r>έχομαι<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχτήκατε</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχόσασταν</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έχθηκε</l><r>έχομαι<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έχτηκε</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εχόταν</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έχτηκαν</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έχθηκαν</l><r>έχομαι<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έχονταν</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχόντουσαν</l><r>έχομαι<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχτεί</l><r>έχομαι<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>εχθεί</l><r>έχομαι<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>εχτώ</l><r>έχομαι<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εχθώ</l><r>έχομαι<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εχθούμε</l><r>έχομαι<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχτούμε</l><r>έχομαι<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχθείτε</l><r>έχομαι<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχτείτε</l><r>έχομαι<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχθεί</l><r>έχομαι<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εχτεί</l><r>έχομαι<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εχτούν</l><r>έχομαι<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>εχθούν</l><r>έχομαι<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έχομαι</l><r>έχομαι<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>εχόμαστε</l><r>έχομαι<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έχεσαι</l><r>έχομαι<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έχεστε</l><r>έχομαι<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>έχεται</l><r>έχομαι<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έχονται</l><r>έχομαι<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+
+    </pardef>
+
+ <pardef n="π/ιστεύω__vblex">
+      <e><p>          <l>ίστευα</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίστεψα</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιστεύαμε</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστέψαμε</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίστευες</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιστεύατε</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστέψατε</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίστευε</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίστεψε</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίστευαν</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίστεψαν</l><r>ιστεύω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστέψει</l><r>ιστεύω<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ιστέψω</l><r>ιστεύω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιστέψουμε</l><r>ιστεύω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστεύσουμε</l><r>ιστεύω<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστέψετε</l><r>ιστεύω<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστέψει</l><r>ιστεύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιστεύσει</l><r>ιστεύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιστέψουν</l><r>ιστεύω<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστεύω</l><r>ιστεύω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιστευω</l><r>ιστεύω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίστευω</l><r>ιστεύω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιστεύουμε</l><r>ιστεύω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστεύομε</l><r>ιστεύω<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστεύεις</l><r>ιστεύω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιστεύετε</l><r>ιστεύω<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστεύει</l><r>ιστεύω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίστευεται</l><r>ιστεύω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ιστεύουν</l><r>ιστεύω<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ιστεύοντας</l><r>ιστεύω<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+    <pardef n="φιλοξ/ενώ__vblex">
+      <e><p>          <l>ενούσα</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ένησα</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενήσαμε</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενούσες</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενήσατε</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενούσε</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ένησε</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενήθηκε</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενούσαν</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενούνταν</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ένησαν</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενήθηκαν</l><r>ενώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενηθεί</l><r>ενώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ενήσει</l><r>ενώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ενηθώ</l><r>ενώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενήσω</l><r>ενώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενήσουμε</l><r>ενώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενήσει</l><r>ενώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενηθεί</l><r>ενώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενήσουν</l><r>ενώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενηθούν</l><r>ενώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενώ</l><r>ενώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενούμε</l><r>ενώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενείται</l><r>ενώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενεί</l><r>ενώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ενούν</l><r>ενώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενούνται</l><r>ενώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ενώντας</l><r>ενώ<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+   <pardef n="δημι/ουργώ__vblex">
+      <e><p>          <l>ούργησα</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργούσα</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργούσαμε</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργήσαμε</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ούργησες</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργούσες</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργήσατε</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργούσατε</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργήθηκε</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ούργησε</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργούσε</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργηθηκε</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργείτο</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργήσε</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ούργησαν</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργήθηκαν</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργούσαν</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργούνταν</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργηθήκανε</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργούντο</l><r>ουργώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργηθεί</l><r>ουργώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ουργήσει</l><r>ουργώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ουργήσω</l><r>ουργώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργήσουμε</l><r>ουργώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργήσεις</l><r>ουργώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργήσετε</l><r>ουργώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργήσει</l><r>ουργώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργηθεί</l><r>ουργώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργηθούν</l><r>ουργώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργήσουν</l><r>ουργώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργώ</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργούμε</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργησούμε</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργείς</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργείτε</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργείστε</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργεί</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργείται</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ουργούνται</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργούν</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>oυργούν</l><r>ουργώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ουργώντας</l><r>ουργώ<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+   <pardef n="υστ/ερώ__vblex">
+      <e><p>          <l>ερήσαμε</l><r>ερώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερούσες</l><r>ερώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερήσατε</l><r>ερώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερούσε</l><r>ερώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>έρησε</l><r>ερώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερούσαν</l><r>ερώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερήσει</l><r>ερώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ερήσουμε</l><r>ερώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερήσεις</l><r>ερώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερήσει</l><r>ερώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερήσουν</l><r>ερώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερώ</l><r>ερώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερούμε</l><r>ερώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερεί</l><r>ερώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ερούν</l><r>ερώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ερώντας</l><r>ερώ<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>
+
+    <pardef n="ξεκ/ινώ__vblex">
+      <e><p>          <l>ίνησα</l><r>ινώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινούσα</l><r>ινώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινήσαμε</l><r>ινώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινούσαμε</l><r>ινώ<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίνησες</l><r>ινώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινήσατε</l><r>ινώ<s n="vblex"/><s n="aor"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίνησε</l><r>ινώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινούσε</l><r>ινώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ίνησαν</l><r>ινώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινούσαν</l><r>ινώ<s n="vblex"/><s n="aor"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινήσει</l><r>ινώ<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p>          <l>ινήσω</l><r>ινώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινήσουμε</l><r>ινώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ίνησουμε</l><r>ινώ<s n="vblex"/><s n="inf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινήσεις</l><r>ινώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινήσετε</l><r>ινώ<s n="vblex"/><s n="inf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινήσει</l><r>ινώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινήσουν</l><r>ινώ<s n="vblex"/><s n="inf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινώ</l><r>ινώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινάω</l><r>ινώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινάμε</l><r>ινώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινούμε</l><r>ινώ<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινάς</l><r>ινώ<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινάτε</l><r>ινώ<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινά</l><r>ινώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινάει</l><r>ινώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ινούν</l><r>ινώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινάνε</l><r>ινώ<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ινώντας</l><r>ινώ<s n="vblex"/><s n="ger"/></r></p></e>
+    </pardef>  
+
+
     <!-- Adverbs -->
     <pardef n="αμέσως__adv">
       <e><p><l></l><r><s n="adv"/></r></p></e>
@@ -11933,6 +12979,54 @@
     <e lm="έχω"><i></i><par n="/έχω__vbhaver"/></e>
     <e lm="γράφω"><i>γράφω</i><par n="/γράφω__vblex"/></e>
     <e lm="νυστάζω"><i>ν</i><par n="ν/υστάζω__vblex"/></e>
+
+    <!-- verbs added from ILSP corpus to check -->
+
+    <e lm="διαβλέπω"><i>δι</i><par n="δι/αβλέπω__vblex"/></e>
+    <e lm="ενσωματώνω"><i>ενσωμ</i><par n="ενσωμ/ατώνω__vblex"/></e>
+    <e lm="μετρώ"><i>μ</i><par n="μ/ετρώ__vblex"/></e>
+    <e lm="καταμετρώ"><i>καταμ</i><par n="μ/ετρώ__vblex"/></e>
+    <e lm="ταξιδεύω"><i>ταξ</i><par n="ταξ/ιδεύω__vblex"/></e>
+    <e lm="λησμονώ"><i>λησμ</i><par n="λησμ/ονώ__vblex"/></e>
+    <e lm="καταναλώνω"><i>καταν</i><par n="αν/αλώνω__vblex"/></e>
+    <e lm="αναλώνω"><i>αν</i><par n="αν/αλώνω__vblex"/></e>
+    <e lm="ανταλλάζω"><i>αντ</i><par n="αντ/αλλάζω__vblex"/></e>
+    <e lm="παραβλέπω"><i>παρ</i><par n="δι/αβλέπω__vblex"/></e>
+    <e lm="διδάσκω"><i>δ</i><par n="δ/ιδάσκω__vblex"/></e>
+    <e lm="δείχνω"><i>δε</i><par n="δε/ίχνω__vblex"/></e>
+    <e lm="αιτιολογώ"><i>αιτιολ</i><par n="αιτιολ/ογώ__vblex"/></e>
+    <e lm="ξεπερνώ"><i>ξεπ</i><par n="ξεπ/ερνώ__vblex"/></e>
+    <e lm="υπεκφεύγω"><i>υπεκφ</i><par n="φ/εύγω__vblex"/></e>
+    <e lm="φεύγω"><i>φ</i><par n="φ/εύγω__vblex"/></e>
+    <e lm="εκφεύγω"><i>εκφ</i><par n="φ/εύγω__vblex"/></e>
+    <e lm="χαρίζω"><i>χ</i><par n="χ/αρίζω__vblex"/></e>
+    <e lm="επαναδιαμορφώνω"><i>επαναδιαμ</i><par n="διαμ/ορφώνω__vblex"/></e>
+    <e lm="διαμορφώνω"><i>διαμ</i><par n="διαμ/ορφώνω__vblex"/></e>
+    <e lm="αναδιαμορφώνω"><i>αναδιαμ</i><par n="διαμ/ορφώνω__vblex"/></e>
+    <e lm="συνδιαμορφώνω"><i>συνδιαμ</i><par n="διαμ/ορφώνω__vblex"/></e>
+    <e lm="ξανακοιτάζω"><i>ξανακο</i><par n="κο/ιτάζω__vblex"/></e>
+    <e lm="κοιτάζω"><i>κο</i><par n="κο/ιτάζω__vblex"/></e>
+    <e lm="μένω"><i>μ</i><par n="μ/ένω__vblex"/></e>
+    <e lm="υπερμένω"><i>υπερμ</i><par n="μ/ένω__vblex"/></e>
+    <e lm="δρω"><i>δρ</i><par n="δρ/ω__vblex"/></e>
+    <e lm="διαδρω"><i>διαδρ</i><par n="δρ/ω__vblex"/></e>
+    <e lm="επενδύω"><i>επ</i><par n="επ/ενδύω__vblex"/></e>
+    <e lm="προσχωρώ"><i>προσ</i><par n="προσ/χωρώ__vblex"/></e>
+    <e lm="θέλω"><i>θ</i><par n="θ/έλω__vblex"/></e>
+    <e lm="αποδοκιμάζω"><i>αποδοκ</i><par n="δοκ/ιμάζω__vblex"/></e>
+    <e lm="δοκιμάζω"><i>δοκ</i><par n="δοκ/ιμάζω__vblex"/></e>
+    <e lm="μεταφέρω"><i>μετ</i><par n="μετ/αφέρω__vblex"/></e>
+    <e lm="ονειρεύομαι"><i>ονειρε</i><par n="ονειρε/ύομαι__vblex"/></e>
+    <e lm="παραδέχομαι"><i>παραδ</i><par n="παραδ/έχομαι__vblex"/></e>
+    <e lm="πιστεύω"><i>π</i><par n="π/ιστεύω__vblex"/></e>
+    <e lm="φιλοξενώ"><i>φιλοξ</i><par n="φιλοξ/ενώ__vblex"/></e>
+    <e lm="δημιουργώ"><i>δημι</i><par n="δημι/ουργώ__vblex"/></e>
+    <e lm="καθυστερώ"><i>καθυστ</i><par n="υστ/ερώ__vblex"/></e>
+    <e lm="υστερώ"><i>υστ</i><par n="υστ/ερώ__vblex"/></e>
+    <e lm="πρωτοξεκινώ"><i>πρωτοξεκ</i><par n="ξεκ/ινώ__vblex"/></e>
+    <e lm="ξεκινώ"><i>ξεκ</i><par n="ξεκ/ινώ__vblex"/></e>
+ 
+
   </section>
   <section id="contractions" type="standard"><e lm="στο"><p><l>στο</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
     <e lm="στο"><p><l>στο</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -11943,6 +13037,8 @@
     <e lm="στον"><p><l>στον</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
     <e lm="στον"><p><l>στον</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
   </section>
+
+
   <section id="final" type="inconditional"><!-- Numbers / Numerals -->
     <e><par n="numeros"/></e>
     <!-- End of sentence -->
@@ -13550,7 +14646,9 @@
     <e lm="ώμος"><i>ώμ</i><par n="ήχ/ος__n_m"/></e>
     <e lm="ώσμωση"><i>ώσ</i><par n="ώσ/μωση__n_f"/></e>
 
-<!-- adverbs from ILSP tagged corpora --> 
+
+
+<!-- adverbs from ILSP tagged corpora 
 
     <e lm="αχόρταγα"><i>αχόρταγα</i><par n="αμέσως__adv"/></e>
     <e lm="βαρέως"><i>βαρέως</i><par n="αμέσως__adv"/></e>
@@ -15598,8 +16696,8 @@
     <e lm="αντικοκκιδιακά"><i>αντικοκκιδιακά</i><par n="αμέσως__adv"/></e>
     <e lm="προδήλως"><i>προδήλως</i><par n="αμέσως__adv"/></e>
     <e lm="αναμφίλεκτα"><i>αναμφίλεκτα</i><par n="αμέσως__adv"/></e>
-
-<!-- nouns in ός from ILSP tagged corpora --> 
+--> 
+<!-- nouns in ός from ILSP tagged corpora 
 
     <e lm="καθολικισμός"><i>καθολικισμ</i><par n="ι/ός__n_m"/></e>
     <e lm="διχασμός"><i>διχασμ</i><par n="ι/ός__n_m"/></e>
@@ -16373,8 +17471,9 @@
     <e lm="αρτοποιός"><i>αρτοποι</i><par n="ι/ός__n_m"/></e>
     <e lm="υποβιβασμός"><i>υποβιβασμ</i><par n="ι/ός__n_m"/></e>
 
-<!-- nouns in /ία from ILSP corpora -->
+--> 
 
+<!-- nouns in /ία from ILSP corpora 
     <e lm="ειδωλολατρία"><i>ειδωλολατρ</i><par n="μα/ία__n_f"/></e>
     <e lm="πορεία"><i>πορε</i><par n="μα/ία__n_f"/></e>
     <e lm="συγκυρία"><i>συγκυρ</i><par n="μα/ία__n_f"/></e>
@@ -16674,9 +17773,9 @@
     <e lm="τεχνογνωσία"><i>τεχνογνωσ</i><par n="μα/ία__n_f"/></e>
     <e lm="προδικασία"><i>προδικασ</i><par n="μα/ία__n_f"/></e>
     <e lm="ραδιουργία"><i>ραδιουργ</i><par n="μα/ία__n_f"/></e>
+-->
 
-<!-- section nouns /ή from ILSP corpora --> 
-
+<!-- section nouns /ή from ILSP corpora 
     <e lm="εκταφή"><i>εκταφ</i><par n="ψυχ/ή__n_f"/></e>
     <e lm="παραδοχή"><i>παραδοχ</i><par n="ψυχ/ή__n_f"/></e>
     <e lm="χορδή"><i>χορδ</i><par n="ψυχ/ή__n_f"/></e>
@@ -16953,9 +18052,9 @@
     <e lm="μετασκευή"><i>μετασκευ</i><par n="ψυχ/ή__n_f"/></e>
     <e lm="οπισθοφυλακή"><i>οπισθοφυλακ</i><par n="ψυχ/ή__n_f"/></e>
     <e lm="ανακατασκευή"><i>ανακατασκευ</i><par n="ψυχ/ή__n_f"/></e>
+--> 
 
-<!-- nouns in /α from ILSP tagged corpora-->
-
+<!-- nouns in /α from ILSP tagged corpora
     <e lm="χαραμάδα"><i>χαραμάδ</i><par n="ώρ/α__n_f"/></e>
     <e lm="μοιχαλίδα"><i>μοιχαλίδ</i><par n="ώρ/α__n_f"/></e>
     <e lm="μπλούζα"><i>μπλούζ</i><par n="ώρ/α__n_f"/></e>
@@ -17799,10 +18898,10 @@
     <e lm="καραβέλα"><i>καραβέλ</i><par n="ώρ/α__n_f"/></e>
     <e lm="εγγυήτρια"><i>εγγυήτρι</i><par n="ώρ/α__n_f"/></e>
     <e lm="πιθανολογία"><i>πιθανολογί</i><par n="ώρ/α__n_f"/></e>
+-->
 
 
-<!-- nouns in /ής from ILSP tagged corpora -->
-
+<!-- nouns in /ής from ILSP tagged corpora 
     <e lm="ουμανιστής"><i>ουμανιστ</i><par n="θεατ/ής__n_m"/></e>
     <e lm="κομουνιστής"><i>κομουνιστ</i><par n="θεατ/ής__n_m"/></e>
     <e lm="οστεοθεραπευτής"><i>οστεοθεραπευτ</i><par n="θεατ/ής__n_m"/></e>
@@ -18163,8 +19262,10 @@
     <e lm="μεγαλοληστής"><i>μεγαλοληστ</i><par n="θεατ/ής__n_m"/></e>
     <e lm="ιχθυοκαλλιεργητής"><i>ιχθυοκαλλιεργητ</i><par n="θεατ/ής__n_m"/></e>
     <e lm="διορθωτής"><i>διορθωτ</i><par n="θεατ/ής__n_m"/></e>
-<!-- nouns in /ο from ILSP tagged corpus --> 
+-->
 
+
+<!-- nouns in /ο from ILSP tagged corpus 
     <e lm="αναρρωτήριο"><i>αναρρωτήρι</i><par n="ζώ/ο__n_nt"/></e>
     <e lm="εκλογοδικείο"><i>εκλογοδικεί</i><par n="ζώ/ο__n_nt"/></e>
     <e lm="κάρβουνο"><i>κάρβουν</i><par n="ζώ/ο__n_nt"/></e>
@@ -18505,8 +19606,9 @@
     <e lm="βούρλο"><i>βούρλ</i><par n="ζώ/ο__n_nt"/></e>
     <e lm="σακίδιο"><i>σακίδι</i><par n="ζώ/ο__n_nt"/></e>
 
-<!-- nouns in -σ/η from ILSP tagged corpora --> 
+--> 
 
+<!-- nouns in -σ/η from ILSP tagged corpora 
     <e lm="περιθωριοποίηση"><i>περιθωριοποίησ</i><par n="σχέσ/η__n_f"/></e>
     <e lm="επανεκκίνηση"><i>επανεκκίνησ</i><par n="σχέσ/η__n_f"/></e>
     <e lm="υπερχρηματοδότηση"><i>υπερχρηματοδότησ</i><par n="σχέσ/η__n_f"/></e>
@@ -18651,6 +19753,7 @@
     <e lm="αλληλοσυμπλήρωση"><i>αλληλοσυμπλήρωσ</i><par n="σχέσ/η__n_f"/></e>
     <e lm="ανάδειξη"><i>ανάδειξ</i><par n="σχέσ/η__n_f"/></e>
     <e lm="γήρανση"><i>γήρανσ</i><par n="σχέσ/η__n_f"/></e>
+--> 
 
   </section>
 </dictionary>
