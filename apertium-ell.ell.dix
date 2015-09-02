@@ -11057,6 +11057,7 @@
    <pardef n="δι/αβλέπω__vblex">
       <e><p>          <l>έβλεπα</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p>          <l>έβλεψα</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
+
       <e><p>          <l>αβλέπαμε</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p>          <l>είδε</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
       <e><p>          <l>αβλεπόταν</l><r>αβλέπω<s n="vblex"/><s n="aor"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -11556,7 +11557,7 @@
       <e><p>          <l>αρίζοντάς</l><r>αρίζω<s n="vblex"/><s n="ger"/></r></p></e>
     </pardef>
 
- <pardef n="διαμ/ορφώνω__vblex" v="copiar">
+ <pardef n="διαμ/ορφώνω__vblex">
       <e><p>          <l>όρφωσα</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p>          <l>ορφώσαμε</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
       <e><p>          <l>ορφώναμε</l><r>ορφώνω<s n="vblex"/><s n="aor"/><s n="p1"/><s n="pl"/></r></p></e>
@@ -12102,17 +12103,12 @@
       <e><p><l></l><r><s n="adv"/></r></p></e>
     </pardef>
 
-       <!-- Particles -->
-    <pardef n="δεν__neg">
-      <e><p><l></l><r><s n="neg"/></r></p></e>
-    </pardef>
-
   </pardefs>
   <section id="main" type="standard">
 
     <!-- SECTION: Pronouns -->
     <e lm="personal pronouns"><i/><par n="personal_pronouns__prn"/></e>
-    <e lm="enclitic pronouns"><i/><par n="enclitic_pronouns__prn"/></e>
+  <!--  <e lm="enclitic pronouns"><i/><par n="enclitic_pronouns__prn"/></e>-->
     <e lm="κάτι"><i>κάτι</i><par n="κάτι__prn"/></e>
     <e lm="ποιος"><i>ποι</i><par n="ποι/ος__prn"/></e>
 
@@ -12123,12 +12119,8 @@
     <e lm="και"><i>και</i><par n="και__cnjcoo"/></e>
     <e lm="κι"><i>κι</i><par n="και__cnjcoo"/></e>
 
-    <!-- CHECK -->
     <e lm="αλλά"><i>αλλά</i><par n="και__cnjcoo"/></e>
     <e lm="ή"><i>ή</i><par n="και__cnjcoo"/></e>
-    <e lm="δε"><i>δε</i><par n="και__cnjcoo"/></e>
-    <e lm="επειδή"><i>επειδή</i><par n="και__cnjcoo"/></e>
-    <e lm="μόνο"><i>μόνο</i><par n="και__cnjcoo"/></e>
     <e lm="όμως"><i>όμως</i><par n="και__cnjcoo"/></e>
     <e lm="ούτε"><i>ούτε</i><par n="και__cnjcoo"/></e>
     <e lm="μήτε"><i>μήτε</i><par n="και__cnjcoo"/></e>
@@ -12138,9 +12130,12 @@
     <e lm="μα"><i>μα</i><par n="και__cnjcoo"/></e>
     <e lm="ωστόσο"><i>ωστόσο</i><par n="και__cnjcoo"/></e>
     <e lm="ενώ"><i>ενώ</i><par n="και__cnjcoo"/></e>
-    <e lm="μολονότι"><i>μολονότι</i><par n="και__cnjcoo"/></e>
-    <e lm="αν και"><i>αν<b/>και</i><par n="και__cnjcoo"/></e>
+    <e lm="μολονότι"><i>μολονότι</i><par n="εάν__cnjsub"/></e>
+    <e lm="αν και"><i>αν<b/>και</i><par n="εάν__cnjsub"/></e>
+    <e lm="επειδή"><i>επειδή</i><par n="εάν__cnjsub"/></e>
     <e lm="εάν"><i>εάν</i><par n="εάν__cnjsub"/></e>
+
+    <!-- CHECK -->
     <e lm="αν"><i>αν</i><par n="εάν__cnjsub"/></e>
     <e lm="γιατί"><i>γιατί</i><par n="εάν__cnjsub"/></e>
     <e lm="πως"><i>πως</i><par n="εάν__cnjsub"/></e>
@@ -12170,13 +12165,16 @@
     <e lm="άμα"><i>άμα</i><par n="εάν__cnjsub"/></e>
     <e lm="που"><i>που</i><par n="εάν__cnjsub"/></e>
     <e lm="μήπως"><i>μήπως</i><par n="εάν__cnjsub"/></e>
+
+
     <!-- Determiners -->
     <e lm="ένας"><i/><par n="/ένας__det"/></e>
     <e lm="ο"><i/><par n="/ο__det"/></e>
+
     <!-- Prepositions -->
     <e lm="από"><i>από</i><par n="από__pr"/></e>
     <e lm="από" r="LR"><p><l>απ'</l><r>από</r></p><par n="από__pr"/></e>
-    <e lm="γι'"><i>γι'</i><par n="από__pr"/></e>
+    <e lm="γι'" r="LR"><p><l>γι'</l><r>για</r></p><par n="από__pr"/></e>
     <e lm="για"><i>για</i><par n="από__pr"/></e>
     <e lm="δίπλα"><i>δίπλα</i><par n="από__pr"/></e>
     <e lm="εις"><i>εις</i><par n="από__pr"/></e>
@@ -12186,28 +12184,19 @@
     <e lm="με"><i>με</i><par n="από__pr"/></e>
     <e lm="μείον"><i>μείον</i><par n="από__pr"/></e>
     <e lm="μετά"><i>μετά</i><par n="από__pr"/></e>
-    <e lm="σ'"><i>σ'</i><par n="από__pr"/></e>
     <e lm="σαν"><i>σαν</i><par n="από__pr"/></e>
     <e lm="σε"><i>σε</i><par n="από__pr"/></e>
-    <e lm="στην"><i>στην</i><par n="από__pr"/></e>
     <e lm="στο"><i>στο</i><par n="από__pr"/></e>
     <e lm="χωρίς"><i>χωρίς</i><par n="από__pr"/></e>
     <e lm="ως"><i>ως</i><par n="από__pr"/></e>
-    <e lm="πάνω σε"><i>πάνω<b/>σε</i><par n="από__pr"/></e>
-    <e lm="κάτω από"><i>κάτω<b/>από</i><par n="από__pr"/></e>
-    <e lm="πλάι σε"><i>πλάι<b/>σε</i><par n="από__pr"/></e>
     <e lm="κατά"><i>κατά</i><par n="από__pr"/></e>
-    <e lm="υπέρ"><i>υπέρ</i><par n="από__pr"/></e>
     <e lm="αντί"><i>αντί</i><par n="από__pr"/></e>
     <e lm="ίσαμε"><i>ίσαμε</i><par n="από__pr"/></e>
     <e lm="δίχως"><i>δίχως</i><par n="από__pr"/></e>
-    <e lm="εξ"><i>εξ</i><par n="από__pr"/></e>
     <e lm="μέχρι"><i>μέχρι</i><par n="από__pr"/></e>
     <e lm="παρά"><i>παρά</i><par n="από__pr"/></e>
-    <e lm="εν τω μεταξύ"><i>εν<b/>τω<b/>μεταξύ</i><par n="από__pr"/></e>
-    <!-- Particles -->
-    <e lm="δεν"><i>δεν</i><par n="δεν__neg"/></e>
-    <!-- Numerals -->
+
+   <!-- Numerals -->
     <e lm="ένας"><i></i><par n="/ένας__num"/></e>
     <e lm="δύο"><i>δύο</i><par n="δύο__num"/></e>
     <e lm="δυο"><p><l>δυο</l><r>δύο</r></p><par n="δύο__num"/></e>
@@ -12228,6 +12217,7 @@
     <e lm="δεκατρεις"><i>δεκατρ</i><par n="τρ/εις__num"/></e>
     <e lm="δεκατέσσερις"><i>δεκατ</i><par n="τ/έσσερις__num"/></e>
     <e lm="δεκαπέντε"><i>δεκαπέντε</i><par n="δύο__num"/></e>
+
     <!-- Nouns -->
     <e lm="χώρα"><i>χ</i><par n="χ/ώρα__n_f"/></e>
     <e lm="νυκτερίδα"><i>νυκτερ</i><par n="νυκτερ/ίδα__n_f"/></e>
@@ -12782,6 +12772,7 @@
     <e lm="απόδραση"><i>απ</i><par n="απ/όδραση__n_f"/></e>
     <e lm="κινητοποίηση"><i>κινητοπο</i><par n="κινητοπο/ίηση__n_f"/></e>
     <e lm="πρόσχωση"><i>πρ</i><par n="πρ/όσχωση__n_f"/></e>
+
     <!-- Proper nouns -->
     <e lm="Ελλάδα"><i>Ελλάδα</i><par n="Ελλάδα__np"/></e>
     <e lm="Γερμανία"><i>Γερμανία</i><par n="Ελλάδα__np"/></e>
@@ -12792,6 +12783,10 @@
     <e lm="Σμαράγδα"><i>Σμαράγδα</i><par n="Μαρία__np"/></e>
     <e lm="Κωνσταντίνα"><i>Κωνσταντίνα</i><par n="Μαρία__np"/></e>
     <e lm="Ανδρέας"><i>Ανδρέα</i><par n="Ανδρέα/ς__np"/></e>
+    <e lm="Προκόπης"><i>Προκόπη</i><par n="Ανδρέα/ς__np"/></e>
+    <e lm="Βασίλης"><i>Βασίλης</i><par n="Ανδρέα/ς__np"/></e>
+
+
     <!-- Adjectives -->
     <e lm="σωστός"><i>σωστ</i><par n="λυτ/ός__adj"/></e>
     <e lm="μοναδικός"><i>μοναδικ</i><par n="λυτ/ός__adj"/></e>
@@ -12878,7 +12873,10 @@
     <e lm="μυστηριώδης"><i>μυστ</i><par n="μυστ/ηριώδης__adj"/></e>
     <e lm="δεύτερος"><i>δεύτερ</i><par n="μαύρ/ος__adj"/></e>
     <e lm="μέσος"><i>μ</i><par n="μ/έσος__adj"/></e>
-    <!-- Adverbs -->
+ 
+   <!-- Adverbs -->
+
+    <e lm="δεν"><i>δεν</i><par n="αμέσως__adv"/></e>
     <e lm="άλλοτε"><i>άλλοτε</i><par n="αμέσως__adv"/></e>
     <e lm="άνω"><i>άνω</i><par n="αμέσως__adv"/></e>
     <e lm="άπαξ"><i>άπαξ</i><par n="αμέσως__adv"/></e>
@@ -12974,12 +12972,77 @@
     <e lm="χτες"><i>χτες</i><par n="αμέσως__adv"/></e>
     <e lm="όχι"><i>όχι</i><par n="αμέσως__adv"/></e>
     <e lm="ύστερα"><i>ύστερα</i><par n="αμέσως__adv"/></e>
+
     <!-- Verbs -->
     <e lm="είμαι"><i></i><par n="/είμαι__vbser"/></e>
     <e lm="έχω"><i></i><par n="/έχω__vbhaver"/></e>
-    <e lm="γράφω"><i>γράφω</i><par n="/γράφω__vblex"/></e>
+    <e lm="γράφω"><i></i><par n="/γράφω__vblex"/></e>
     <e lm="νυστάζω"><i>ν</i><par n="ν/υστάζω__vblex"/></e>
 
+    <!-- verbs added from ILSP corpus to check -->
+
+    <e lm="διαβλέπω"><i>δι</i><par n="δι/αβλέπω__vblex"/></e>
+    <e lm="ενσωματώνω"><i>ενσωμ</i><par n="ενσωμ/ατώνω__vblex"/></e>
+    <e lm="μετρώ"><i>μ</i><par n="μ/ετρώ__vblex"/></e>
+    <e lm="καταμετρώ"><i>καταμ</i><par n="μ/ετρώ__vblex"/></e>
+    <e lm="ταξιδεύω"><i>ταξ</i><par n="ταξ/ιδεύω__vblex"/></e>
+    <e lm="λησμονώ"><i>λησμ</i><par n="λησμ/ονώ__vblex"/></e>
+    <e lm="καταναλώνω"><i>καταν</i><par n="αν/αλώνω__vblex"/></e>
+    <e lm="αναλώνω"><i>αν</i><par n="αν/αλώνω__vblex"/></e>
+    <e lm="ανταλλάζω"><i>αντ</i><par n="αντ/αλλάζω__vblex"/></e>
+    <e lm="παραβλέπω"><i>παρ</i><par n="δι/αβλέπω__vblex"/></e>
+    <e lm="διδάσκω"><i>δ</i><par n="δ/ιδάσκω__vblex"/></e>
+    <e lm="δείχνω"><i>δε</i><par n="δε/ίχνω__vblex"/></e>
+    <e lm="αιτιολογώ"><i>αιτιολ</i><par n="αιτιολ/ογώ__vblex"/></e>
+    <e lm="ξεπερνώ"><i>ξεπ</i><par n="ξεπ/ερνώ__vblex"/></e>
+    <e lm="υπεκφεύγω"><i>υπεκφ</i><par n="φ/εύγω__vblex"/></e>
+    <e lm="φεύγω"><i>φ</i><par n="φ/εύγω__vblex"/></e>
+    <e lm="εκφεύγω"><i>εκφ</i><par n="φ/εύγω__vblex"/></e>
+    <e lm="χαρίζω"><i>χ</i><par n="χ/αρίζω__vblex"/></e>
+    <e lm="επαναδιαμορφώνω"><i>επαναδιαμ</i><par n="διαμ/ορφώνω__vblex"/></e>
+    <e lm="διαμορφώνω"><i>διαμ</i><par n="διαμ/ορφώνω__vblex"/></e>
+    <e lm="αναδιαμορφώνω"><i>αναδιαμ</i><par n="διαμ/ορφώνω__vblex"/></e>
+    <e lm="συνδιαμορφώνω"><i>συνδιαμ</i><par n="διαμ/ορφώνω__vblex"/></e>
+    <e lm="ξανακοιτάζω"><i>ξανακο</i><par n="κο/ιτάζω__vblex"/></e>
+    <e lm="κοιτάζω"><i>κο</i><par n="κο/ιτάζω__vblex"/></e>
+    <e lm="μένω"><i>μ</i><par n="μ/ένω__vblex"/></e>
+    <e lm="δρω"><i>δρ</i><par n="δρ/ω__vblex"/></e>
+    <e lm="διαδρω"><i>διαδρ</i><par n="δρ/ω__vblex"/></e>
+    <e lm="επενδύω"><i>επ</i><par n="επ/ενδύω__vblex"/></e>
+    <e lm="προσχωρώ"><i>προσ</i><par n="προσ/χωρώ__vblex"/></e>
+    <e lm="θέλω"><i>θ</i><par n="θ/έλω__vblex"/></e>
+    <e lm="αποδοκιμάζω"><i>αποδοκ</i><par n="δοκ/ιμάζω__vblex"/></e>
+    <e lm="δοκιμάζω"><i>δοκ</i><par n="δοκ/ιμάζω__vblex"/></e>
+    <e lm="μεταφέρω"><i>μετ</i><par n="μετ/αφέρω__vblex"/></e>
+    <e lm="ονειρεύομαι"><i>ονειρε</i><par n="ονειρε/ύομαι__vblex"/></e>
+    <e lm="παραδέχομαι"><i>παραδ</i><par n="παραδ/έχομαι__vblex"/></e>
+    <e lm="πιστεύω"><i>π</i><par n="π/ιστεύω__vblex"/></e>
+    <e lm="φιλοξενώ"><i>φιλοξ</i><par n="φιλοξ/ενώ__vblex"/></e>
+    <e lm="δημιουργώ"><i>δημι</i><par n="δημι/ουργώ__vblex"/></e>
+    <e lm="καθυστερώ"><i>καθυστ</i><par n="υστ/ερώ__vblex"/></e>
+    <e lm="υστερώ"><i>υστ</i><par n="υστ/ερώ__vblex"/></e>
+    <e lm="ξεκινώ"><i>ξεκ</i><par n="ξεκ/ινώ__vblex"/></e>
+ 
+
+  </section>
+  <section id="contractions" type="standard"><e lm="στο"><p><l>στο</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e lm="στο"><p><l>στο</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="στο"><p><l>στο</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="στη"><p><l>στη</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="στα"><p><l>στα</l><r>εις<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="στον"><p><l>στον</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+    <e lm="στον"><p><l>στον</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+    <e lm="στον"><p><l>στον</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+  </section>
+
+
+  <section id="final" type="inconditional"><!-- Numbers / Numerals -->
+    <e><par n="numeros"/></e>
+    <!-- End of sentence -->
+    <e><par n="separa"/></e>
+  </section>
+
+  <section id="check" type="standard">
     <!-- verbs added from ILSP corpus to check -->
 
     <e lm="διαβλέπω"><i>δι</i><par n="δι/αβλέπω__vblex"/></e>
@@ -13025,27 +13088,9 @@
     <e lm="υστερώ"><i>υστ</i><par n="υστ/ερώ__vblex"/></e>
     <e lm="πρωτοξεκινώ"><i>πρωτοξεκ</i><par n="ξεκ/ινώ__vblex"/></e>
     <e lm="ξεκινώ"><i>ξεκ</i><par n="ξεκ/ινώ__vblex"/></e>
- 
 
-  </section>
-  <section id="contractions" type="standard"><e lm="στο"><p><l>στο</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-    <e lm="στο"><p><l>στο</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e lm="στο"><p><l>στο</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e lm="στη"><p><l>στη</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e lm="στα"><p><l>στα</l><r>εις<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e lm="στον"><p><l>στον</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
-    <e lm="στον"><p><l>στον</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-    <e lm="στον"><p><l>στον</l><r>σε<s n="pr"/><j/>ο<s n="det"/><s n="def"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-  </section>
+<!-- nouns -->
 
-
-  <section id="final" type="inconditional"><!-- Numbers / Numerals -->
-    <e><par n="numeros"/></e>
-    <!-- End of sentence -->
-    <e><par n="separa"/></e>
-  </section>
-
-  <section id="check" type="standard">
     <e lm="Άγγλος"><i>Άγγλ</i><par n="ήχ/ος__n_m"/></e>
     <e lm="Έλληνας"><i></i><par n="/Έλληνας__n_m"/></e>
     <e lm="Αγγλίδα"><i>Αγγλίδ</i><par n="θεί/α__n_f"/></e>
@@ -19746,8 +19791,7 @@
     <e lm="επαναθέσπιση"><i>επαναθέσπισ</i><par n="σχέσ/η__n_f"/></e>
     <e lm="αλληλοσυμπλήρωση"><i>αλληλοσυμπλήρωσ</i><par n="σχέσ/η__n_f"/></e>
     <e lm="ανάδειξη"><i>ανάδειξ</i><par n="σχέσ/η__n_f"/></e>
-    <e lm="γήρανση"><i>γήρανσ</i><par n="σχέσ/η__n_f"/></e>
---> 
+    <e lm="γήρανση"><i>γήρανσ</i><par n="σχέσ/η__n_f"/></e> 
 
   </section>
 </dictionary>
