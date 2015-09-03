@@ -9712,18 +9712,18 @@
     </pardef>
 
     <pardef n="μυστ/ηριώδης__adj">
-      <e><p><l>ιριώδες</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ιριώδους</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p><l>ιριώδες</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e><p><l>ιριώδης</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ιριώδους</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p><l>ιριώδη</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e><p><l>ιριώδη</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p><l>ιριωδών</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e><p><l>ιριώδη</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p><l>ιριώδεις</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ιριωδών</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p><l>ιριώδεις</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ηριώδες</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ηριώδους</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ηριώδες</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ηριώδης</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ηριώδους</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ηριώδη</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ηριώδη</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ηριωδών</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ηριώδη</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ηριώδεις</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ηριωδών</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ηριώδεις</l><r>ηριώδης<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
     </pardef>
 
     <pardef n="πρ/άσινος__adj">
@@ -10939,33 +10939,33 @@
       <e><p><l>ύτατος</l><r>ύς<s n="adj"/><s n="sup"/></r></p></e>
     </pardef>
 
-    <pardef n="δ/ίερος__adj">
-      <e><p><l>ιεδρότερος</l><r>ίερος<s n="adj"/><s n="comp"/></r></p></e>
-      <e><p><l>ίεδρη</l><r>ίερος<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ίεδρης</l><r>ίερος<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p><l>ίεδρη</l><r>ίερος<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e><p><l>ίεδρη</l><r>ίερος<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e><p><l>ίεδρες</l><r>ίερος<s n="adj"/><s n="pst"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p><l>ίεδρων</l><r>ίερος<s n="adj"/><s n="pst"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e><p><l>ίεδρες</l><r>ίερος<s n="adj"/><s n="pst"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p><l>ίεδρες</l><r>ίερος<s n="adj"/><s n="pst"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
-      <e><p><l>ίεδρος</l><r>ίερος<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ίεδρου</l><r>ίερος<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p><l>ίεδρο</l><r>ίερος<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e><p><l>ίεδρε</l><r>ίερος<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e><p><l>ίεδροι</l><r>ίερος<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p><l>ίεδρων</l><r>ίερος<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e><p><l>ίεδρους</l><r>ίερος<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p><l>ίεδροι</l><r>ίερος<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
-      <e><p><l>ίεδρο</l><r>ίερος<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ίεδρου</l><r>ίερος<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p><l>ίεδρο</l><r>ίερος<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e><p><l>ίεδρο</l><r>ίερος<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e><p><l>ίεδρα</l><r>ίερος<s n="adj"/><s n="pst"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p><l>ίεδρων</l><r>ίερος<s n="adj"/><s n="pst"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e><p><l>ίεδρα</l><r>ίερος<s n="adj"/><s n="pst"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p><l>ίεδρα</l><r>ίερος<s n="adj"/><s n="pst"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
-      <e><p><l>ιεδρότατος</l><r>ίερος<s n="adj"/><s n="sup"/></r></p></e>
+    <pardef n="δ/ίεδρος__adj">
+      <e><p><l>ιεδρότερος</l><r>ίεδρος<s n="adj"/><s n="comp"/></r></p></e>
+      <e><p><l>ίεδρη</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ίεδρης</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ίεδρη</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ίεδρη</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ίεδρες</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ίεδρων</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ίεδρες</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ίεδρες</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e><p><l>ίεδρος</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ίεδρου</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ίεδρο</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ίεδρε</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ίεδροι</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ίεδρων</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ίεδρους</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ίεδροι</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e><p><l>ίεδρο</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ίεδρου</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ίεδρο</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ίεδρο</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ίεδρα</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ίεδρων</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ίεδρα</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ίεδρα</l><r>ίεδρος<s n="adj"/><s n="pst"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e><p><l>ιεδρότατος</l><r>ίεδρος<s n="adj"/><s n="sup"/></r></p></e>
     </pardef>
 
     <!-- Verbs -->
@@ -12846,7 +12846,7 @@
     <e lm="απλός"><i>απλ</i><par n="απλ/ός__adj"/></e>
     <e lm="ζεστός"><i>ζεστ</i><par n="λυτ/ός__adj"/></e>
     <e lm="εύκολος"><i>ε</i><par n="ε/ύκολος__adj"/></e>
-    <e lm="δίεδρος"><i>δ</i><par n="δ/ίερος__adj"/></e>
+    <e lm="δίεδρος"><i>δ</i><par n="δ/ίεδρος__adj"/></e>
     <e lm="όμορφος"><i>ό</i><par n="ό/μορφος__adj"/></e>
     <e lm="δίκαιος"><i>δ</i><par n="δ/ίκαιος__adj"/></e>
     <e lm="φρόνιμος"><i>φρ</i><par n="φρ/όνιμος__adj"/></e>
