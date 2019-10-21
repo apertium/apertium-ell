@@ -279,15 +279,509 @@
 
     <!-- SECTION: Nouns -->
 
-    <pardef n="σ/ύμπτωη__n_f">
-      <e><p><l>ύμπτωση</l><r>ύμπτωη<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>υμπτώσεως</l><r>ύμπτωη<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p><l>ύμπτωση</l><r>ύμπτωη<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
-      <e><p><l>ύμπτωση</l><r>ύμπτωη<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e><p><l>υμπτώσεις</l><r>ύμπτωη<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
-      <e><p><l>υμπτώσεων</l><r>ύμπτωη<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
-      <e><p><l>υμπτώσεις</l><r>ύμπτωη<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
-      <e><p><l>υμπτώσεις</l><r>ύμπτωη<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    <pardef n="αεραγωγ/ός_n_m">      
+      <e><p><l>ός</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ού</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ό</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ό</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>οί</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ών</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>oύς</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>οί</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αερ/άνημα_n_nt">      
+      <e><p><l>άνημα</l><r>άνημα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ανήματος</l><r>άνημα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>άνημα</l><r>άνημα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>άνημα</l><r>άνημα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ανήματα</l><r>άνημα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ανημάτων</l><r>άνημα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ανήματα</l><r>άνημα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ανήματα</l><r>άνημα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αειφορ/ία_n_f">      
+      <e><p><l>ία</l><r>άνεια<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ίας</l><r>άνεια<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ία</l><r>άνεια<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ία</l><r>άνεια<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αδρ/άνεια_n_f">      
+      <e><p><l>άνεια</l><r>άνεια<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>άνειας</l><r>άνεια<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>άνεια</l><r>άνεια<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>άνεια</l><r>άνεια<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>άνειες</l><r>άνεια<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ανειών</l><r>άνεια<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>άνειες</l><r>άνεια<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>άνειες</l><r>άνεια<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αδ/ίκημα_n_nt">      
+      <e><p><l>ίκημα</l><r>ίκημα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ικήματος</l><r>ίκημα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ίκημα</l><r>ίκημα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ίκημα</l><r>ίκημα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ικήματα</l><r>ίκημα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ικημάτων</l><r>ίκημα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ικήματα</l><r>ίκημα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ικήματα</l><r>ίκημα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αδι/έξοδο_n_nt">      
+      <e><p><l>έξοδο</l><r>έξοδο<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>εξόδου</l><r>έξοδο<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>έξοδο</l><r>έξοδο<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>έξοδο</l><r>έξοδο<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>έξοδα</l><r>έξοδο<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>εξόδων</l><r>έξοδο<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>έξοδα</l><r>έξοδο<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>έξοδα</l><r>έξοδο<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αδιαθεσ/ία_n_f">      
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ίας</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ιών</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αδημονί/α_n_f">      
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ας</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αδεξι/ότητα_n_f">      
+      <e><p><l>ότητα</l><r>ότητα<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ότητας</l><r>ότητα<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ότητα</l><r>ότητα<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ότητα</l><r>ότητα<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ότητες</l><r>ότητα<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>οτήτων</l><r>ότητα<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ότητες</l><r>ότητα<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ότητες</l><r>ότητα<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγ/ώνισμα_n_nt">      
+      <e><p><l>ώνισμα</l><r>ώνισμα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ωνίσματος</l><r>ώνισμα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ώνισμα</l><r>ώνισμα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ώνισμα</l><r>ώνισμα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ωνίσματα</l><r>ώνισμα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ωνισμάτων</l><r>ώνισμα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ωνίσματα</l><r>ώνισμα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ωνίσματα</l><r>ώνισμα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγροληψ/ία_n_f">      
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ίας</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ιών</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγρι/ότητα_n_f">     
+      <e><p><l>ότητα</l><r>ότητα<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ότητας</l><r>ότητα<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ότητα</l><r>ότητα<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ότητα</l><r>ότητα<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ότητες</l><r>ότητα<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>οτήτων</l><r>ότητα<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ότητες</l><r>ότητα<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ότητες</l><r>ότητα<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγρ/ίμι_n_nt">     
+      <e><p><l>ίμι</l><r>ίμι<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ιμιού</l><r>ίμι<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ίμι</l><r>ίμι<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ίμι</l><r>ίμι<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ίμια</l><r>ίμι<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ιμιών</l><r>ίμι<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ίμια</l><r>ίμι<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ίμια</l><r>ίμι<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγοραφοβί/α_n_f">      
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ας</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ες</l><r>α<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ες</l><r>α<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ες</l><r>α<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγ/όρασμα_n_nt">       
+      <e><p><l>όρασμα</l><r>όρασμα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>οράσματος</l><r>όρασμα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>όρασμα</l><r>όρασμα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>όρασμα</l><r>όρασμα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>οράσματα</l><r>όρασμα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ορασμάτων</l><r>όρασμα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>οράσματα</l><r>όρασμα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>οράσματα</l><r>όρασμα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγορανομ/ία_n_f">      
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ίας</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ιών</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    
+    <pardef n="αγκυροβ/όλημα_n_nt">       
+      <e><p><l>όλημα</l><r>όλημα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ολήματος</l><r>όλημα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>όλημα</l><r>όλημα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>όλημα</l><r>όλημα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ολήματα</l><r>όλημα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ολημάτων</l><r>όλημα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ολήματα</l><r>όλημα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ολήματα</l><r>όλημα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγκύλωσ/η_n_f">      
+      <e><p><l>η</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ης</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>η</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>η</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+    </pardef>
+`
+    <pardef n="αγκ/ύλωμα_n_nt">       
+      <e><p><l>ύλωμα</l><r>ύλωμα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>υλώματος</l><r>ύλωμα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ύλωμα</l><r>ύλωμα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ύλωμα</l><r>ύλωμα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>υλώματα</l><r>ύλωμα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>υλωμάτων</l><r>ύλωμα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>υλώματα</l><r>ύλωμα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>υλώματα</l><r>ύλωμα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγκ/ύλη_n_f">     
+      <e><p><l>ύλη</l><r>ύλη<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ύλης</l><r>ύλη<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ύλη</l><r>ύλη<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ύλη</l><r>ύλη<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ύλες</l><r>ύλη<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>υλών</l><r>ύλη<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ύλες</l><r>ύλη<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ύλες</l><r>ύλη<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγκρ/άφα_n_f">      
+      <e><p><l>άφα</l><r>άφα<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>άφας</l><r>άφα<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>άφα</l><r>άφα<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>άφα</l><r>άφα<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>άφες</l><r>άφα<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>αφών</l><r>άφα<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>άφες</l><r>άφα<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>άφες</l><r>άφα<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγκ/άλιασμα_n_nt">     
+      <e><p><l>άλιασμα</l><r>άλιασμα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>αλιάσματος</l><r>άλιασμα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>άλιασμα</l><r>άλιασμα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>άλιασμα</l><r>άλιασμα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>αλιάσματα</l><r>άλιασμα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>αλιασμάτων</l><r>άλιασμα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>αλιάσματα</l><r>άλιασμα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>αλιάσματα</l><r>άλιασμα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγκαλι/ά_n_f">      
+      <e><p><l>ά</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>άς</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ά</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ά</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ές</l><r>ά<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ών</l><r>ά<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ές</l><r>ά<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ές</l><r>ά<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγκ/άλη_n_f">     
+      <e><p><l>άλη</l><r>άλη<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>άλης</l><r>άλη<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>άλη</l><r>άλη<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>άλη</l><r>άλη<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>άλες</l><r>άλη<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>αλών</l><r>άλη<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>άλες</l><r>άλη<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>άλες</l><r>άλη<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγιων/ύμιο_n_nt">     
+      <e><p><l>ύμιο</l><r>ύμιο<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>υίου</l><r>ύμιο<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ύμιο</l><r>ύμιο<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ύμιο</l><r>ύμιο<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ύμια</l><r>ύμιο<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>υμίων</l><r>ύμιο<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ύμια</l><r>ύμιο<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ύμια</l><r>ύμιο<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγιολ/όγιο_n_nt">     
+      <e><p><l>όγιο</l><r>όγιο<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ογίου</l><r>όγιο<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>όγιο</l><r>όγιο<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>όγιο</l><r>όγιο<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>όγια</l><r>όγιο<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ογίων</l><r>όγιο<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>όγια</l><r>όγιο<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>όγια</l><r>όγιο<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγι/όκλημα_n_nt">     
+      <e><p><l>όκλημα</l><r>όκλημα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>οκλήματος</l><r>όκλημα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>όκλημα</l><r>όκλημα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>όκλημα</l><r>όκλημα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>οκλίματα</l><r>όκλημα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>οκλημάτων</l><r>όκλημα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>οκλίματα</l><r>όκλημα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>οκλίματα</l><r>όκλημα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγιασμ/ός_n_m">      
+      <e><p><l>ός</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ού</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ό</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>έ</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>οί</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ών</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ούς</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>οί</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγιάζ/ι_n_nt">     
+      <e><p><l>αγιάζι</l><r>αγιάζι<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>αγιάζι</l><r>αγιάζι<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>αγιάζι</l><r>αγιάζι<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>αγιάζια</l><r>αγιάζι<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>αγιάζια</l><r>αγιάζι<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>αγιάζια</l><r>αγιάζι<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="/άγημα_n_nt">    
+      <e><p><l>άγημα</l><r>άγημα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>αγήματος</l><r>άγημα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>άγημα</l><r>άγημα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>άγημα</l><r>άγημα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>αγήματα</l><r>άγημα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>αγημάτων</l><r>άγημα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>αγήματα</l><r>άγημα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>αγήματα</l><r>άγημα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="/άγγιγμα_n_nt">        
+      <e><p><l>άγγιγμα</l><r>άγγιγμα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>αγγίγματος</l><r>άγγιγμα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>άγγιγμα</l><r>άγγιγμα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>άγγιγμα</l><r>άγγιγμα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>αγγίγματα</l><r>άγγιγμα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>αγγιγμάτων</l><r>άγγιγμα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>αγγίγματα</l><r>άγγιγμα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>αγγίγματα</l><r>άγγιγμα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="/άγγελμα_n_nt">     
+      <e><p><l>άγγελμα</l><r>άγγελμα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>αγγέλματος</l><r>άγγελμα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>άγγελμα</l><r>άγγελμα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>άγγελμα</l><r>άγγελμα<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>αγγέλματα</l><r>άγγελμα<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>αγγελμάτων</l><r>άγγελμα<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>αγγέλματα</l><r>άγγελμα<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>αγγέλματα</l><r>άγγελμα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγγελιοδοσ/ία_n_f">     
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ίας</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ιών</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ίες</l><r>ί<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγγελιαφόρ/ος_n_m">     
+      <e><p><l>ος</l><r>ος<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ου</l><r>ος<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ο</l><r>ος<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ε</l><r>ος<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>οι</l><r>ος<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ων</l><r>ος<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ους</l><r>ος<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>οι</l><r>ος<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγαμ/ία_n_f">    
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ίας</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ιών</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγαλματοποι/ός_n_m">     
+      <e><p><l>ός</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ού</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ό</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>έ</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>οί</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ών</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ούς</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>οί</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αγαλλίασ/η_n_f">   
+      <e><p><l>η</l><r>ύνη<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ης</l><r>ύνη<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>η</l><r>ήνη<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>η</l><r>ύνη<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="/αγαλακτία_n_f">    
+      <e><p><l>αγαλακτία</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>αγαλακτίας</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>αγαλακτία</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>αγαλακτία</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>αγαλακτίες</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>αγαλακτιών</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>αγαλακτίες</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>αγαλακτίες</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αβροφροσ/ύνη_n_f">    
+      <e><p><l>ύνη</l><r>ύνη<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ύνης</l><r>ύνη<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ύνη</l><r>ήνη<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ύνη</l><r>ύνη<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ύνες</l><r>ύνη<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>υνών</l><r>ύνη<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ύνες</l><r>ύνη<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ύνες</l><r>ύνη<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αβοκάντ/ο_n_nt">     
+      <e><p><l>ο</l><r>ο<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ου</l><r>ο<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ο</l><r>ο<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ο</l><r>ο<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>α</l><r>ο<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ων</l><r>ο<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>α</l><r>ο<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>α</l><r>ο<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αβγοθήκ/η__n_f">    
+      <e><p><l>η</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ης/l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>η</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>η</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ες</l><r>η<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ων</l><r>η<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ες</l><r>η<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ες</l><r>η<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+    
+    <pardef n="αβασί/α__n_f">     
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ας/l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αβαρ/ία__n_f">     
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ίας/l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ιών</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αβάντ/α__n_f">    
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ας/l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ες</l><r>α<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ες</l><r>α<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ες</l><r>α<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αβανι/ά__n_f">     
+      <e><p><l>ά</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>άς/l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ά</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ά</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ές</l><r>ά<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ών</l><r>ά<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ές</l><r>ά<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ές</l><r>ά<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="αβανγκαρντισμ/ός__n_m">    
+      <e><p><l>ός</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>ού</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ό</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>έ</l><r>ός<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>οί</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>ών</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ούς</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>οί</l><r>ός<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="/άβακας__n_m">        
+      <e><p><l>άβακας</l><r>άβακας<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>άβακα</l><r>άβακας<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>άβακα</l><r>άβακας<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>άβακα</l><r>άβακας<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>άβακες</l><r>άβακας<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>αβάκων</l><r>άβακας<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>άβακες</l><r>άβακας<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>άβακες</l><r>άβακας<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+    <pardef n="σ/ύμπτωση__n_f">
+      <e><p><l>ύμπτωση</l><r>ύμπτωση<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>υμπτώσεως</l><r>ύμπτωση<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ύμπτωση</l><r>ύμπτωση<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>ύμπτωση</l><r>ύμπτωση<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>υμπτώσεις</l><r>ύμπτωση<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>υμπτώσεων</l><r>ύμπτωση<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>υμπτώσεις</l><r>ύμπτωση<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>υμπτώσεις</l><r>ύμπτωση<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
 
     <pardef n="/έξαρση__n_f">
