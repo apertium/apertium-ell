@@ -738,7 +738,7 @@
 
     <pardef n="αβγοθήκ/η__n_f">    
       <e><p><l>η</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ης/l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ης</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>η</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p><l>η</l><r>η<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
       <e><p><l>ες</l><r>η<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
@@ -749,14 +749,14 @@
     
     <pardef n="αβασί/α__n_f">     
       <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ας/l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ας</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
     </pardef>
 
     <pardef n="αβαρ/ία__n_f">     
       <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ίας/l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ίας</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
       <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
@@ -767,7 +767,7 @@
 
     <pardef n="αβάντ/α__n_f">    
       <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>ας/l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>ας</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
       <e><p><l>ες</l><r>α<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
@@ -777,7 +777,7 @@
 
     <pardef n="αβανι/ά__n_f">     
       <e><p><l>ά</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
-      <e><p><l>άς/l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>άς</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ά</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p><l>ά</l><r>ά<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
       <e><p><l>ές</l><r>ά<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
@@ -20450,39 +20450,39 @@
 
 <!-- check after workshop --> 
 
-<e lm="έκτακτος" a="grguest"><i>έκτακτ</i><par n="μαύρ/ος__adj"/></e>
-<e lm="αίτημα" a="grguest"><i>α</i><par n="α/ίτημα__n_nt"/></e>
-<e lm="απαγορευμένος" a="grguest"><i>απαγορευμέν</i><par n="υδρόβι/ος__adj"/></e>
-<e lm="συγκεκριμένος" a="grguest"><i>συγκεκριμέν</i><par n="υδρόβι/ος__adj"/></e>
-<e lm="ερχόμενος" a="grguest"><i>ερχόμεν</i><par n="μαύρ/ος__adj"/></e>
+  <e lm="έκτακτος" a="grguest"><i>έκτακτ</i><par n="μαύρ/ος__adj"/></e>
+  <e lm="αίτημα" a="grguest"><i>α</i><par n="α/ίτημα__n_nt"/></e>
+  <e lm="απαγορευμένος" a="grguest"><i>απαγορευμέν</i><par n="υδρόβι/ος__adj"/></e>
+  <e lm="συγκεκριμένος" a="grguest"><i>συγκεκριμέν</i><par n="υδρόβι/ος__adj"/></e>
+  <e lm="ερχόμενος" a="grguest"><i>ερχόμεν</i><par n="μαύρ/ος__adj"/></e>
 
-<e lm="απομακρυσμένος" a="grguest"><i>απομακρυσμέ</i><par n="υδρόβι/ος__adj"/></e>
-<e lm="αργός" a="grguest"><i>αρ</i><par n="απλ/ός__adj"/></e>
-<e lm="αριθμητικός" a="grguest"><i>αριθμητι</i><par n="λυτ/ός__adj"/></e>
-<e lm="ατομικός" a="grguest"><i>ατομι</i><par n="λυτ/ός__adj"/></e>
-<e lm="βασικός" a="grguest"><i>βασικ</i><par n="λυτ/ός__adj"/></e>
-<e lm="γέρικος" a="grguest"><i>γέρι</i><par n="υδρόβι/ος__adj"/></e>
-<e lm="γρήγορος" a="grguest"><i>γρήγορ</i><par n="υδρόβι/ος__adj"/></e>
-<e lm="διοικητικός" a="grguest"><i>διοικητι</i><par n="λυτ/ός__adj"/></e>
-<e lm="δυνατότητα" a="grguest"><i>δυνατότητ</i><par n="ώρ/α__n_f"/></e>
-<e lm="ευρώ" a="grguest"><i>ευρώ</i><par n="ευρώ__n_nt"/></e>
-<e lm="κρύος" a="grguest"><i>κρ</i><par n="υδρόβι/ος__adj"/></e>
-<e lm="οικονομικός" a="grguest"><i>οικονομικ</i><par n="λυτ/ός__adj"/></e>
-<e lm="πίστωση" a="grguest"><i>π</i><par n="π/ίστωση__n_f"/></e>
-<e lm="παλιός" a="grguest"><i>παλι</i><par n="λυτ/ός__adj"/></e>
-<e lm="πανεπιστήμιο" a="grguest1"><i>πανεπιστήμι</i><par n="ζώ/ο__n_nt"/></e>
-<e lm="πρύτανης" a="grguest1"><i>πρ</i><par n="πρ/ύτανης__n_f"/></e>
-<e lm="πυρηνικός" a="grguest"><i>πυρηνι</i><par n="λυτ/ός__adj"/></e>
-<e lm="σίτιση" a="grguest"><i>σίτισ</i><par n="σχέσ/η__n_f"/></e>
-<e lm="σύνοδος" a="grguest"><i>σ</i><par n="σ/ύνοδος__n_f"/></e>
-<e lm="τελευταίος" a="grguest"><i>τελευτ</i><par n="ωρα/ίος__adj"/></e>
-<e lm="τυχαίος" a="grguest"><i>τυχ</i><par n="ωρα/ίος__adj"/></e>
-<e lm="υγιεινός" a="grguest"><i>υγιει</i><par n="λυτ/ός__adj"/></e>
-<e lm="υπολογιστικός" a="grguest"><i>υπολογιστι</i><par n="λυτ/ός__adj"/></e>
-<e lm="φιλικός" a="grguest"><i>φιλι</i><par n="λυτ/ός__adj"/></e>
-<e lm="χαρούμενος" a="grguest"><i>χαρούμε</i><par n="υδρόβι/ος__adj"/></e>
-<e lm="χρηματοδότηση" a="grguest"><i>χρηματοδότηση</i><par n="γη__n_f"/></e>
-<e lm="ακαδημαϊκός"><i>ακαδημαϊκ</i><par n="λυτ/ός__adj"/></e>
+  <e lm="απομακρυσμένος" a="grguest"><i>απομακρυσμέ</i><par n="υδρόβι/ος__adj"/></e>
+  <e lm="αργός" a="grguest"><i>αρ</i><par n="απλ/ός__adj"/></e>
+  <e lm="αριθμητικός" a="grguest"><i>αριθμητι</i><par n="λυτ/ός__adj"/></e>
+  <e lm="ατομικός" a="grguest"><i>ατομι</i><par n="λυτ/ός__adj"/></e>
+  <e lm="βασικός" a="grguest"><i>βασικ</i><par n="λυτ/ός__adj"/></e>
+  <e lm="γέρικος" a="grguest"><i>γέρι</i><par n="υδρόβι/ος__adj"/></e>
+  <e lm="γρήγορος" a="grguest"><i>γρήγορ</i><par n="υδρόβι/ος__adj"/></e>
+  <e lm="διοικητικός" a="grguest"><i>διοικητι</i><par n="λυτ/ός__adj"/></e>
+  <e lm="δυνατότητα" a="grguest"><i>δυνατότητ</i><par n="ώρ/α__n_f"/></e>
+  <e lm="ευρώ" a="grguest"><i>ευρώ</i><par n="ευρώ__n_nt"/></e>
+  <e lm="κρύος" a="grguest"><i>κρ</i><par n="υδρόβι/ος__adj"/></e>
+  <e lm="οικονομικός" a="grguest"><i>οικονομικ</i><par n="λυτ/ός__adj"/></e>
+  <e lm="πίστωση" a="grguest"><i>π</i><par n="π/ίστωση__n_f"/></e>
+  <e lm="παλιός" a="grguest"><i>παλι</i><par n="λυτ/ός__adj"/></e>
+  <e lm="πανεπιστήμιο" a="grguest1"><i>πανεπιστήμι</i><par n="ζώ/ο__n_nt"/></e>
+  <e lm="πρύτανης" a="grguest1"><i>πρ</i><par n="πρ/ύτανης__n_f"/></e>
+  <e lm="πυρηνικός" a="grguest"><i>πυρηνι</i><par n="λυτ/ός__adj"/></e>
+  <e lm="σίτιση" a="grguest"><i>σίτισ</i><par n="σχέσ/η__n_f"/></e>
+  <e lm="σύνοδος" a="grguest"><i>σ</i><par n="σ/ύνοδος__n_f"/></e>
+  <e lm="τελευταίος" a="grguest"><i>τελευτ</i><par n="ωρα/ίος__adj"/></e>
+  <e lm="τυχαίος" a="grguest"><i>τυχ</i><par n="ωρα/ίος__adj"/></e>
+  <e lm="υγιεινός" a="grguest"><i>υγιει</i><par n="λυτ/ός__adj"/></e>
+  <e lm="υπολογιστικός" a="grguest"><i>υπολογιστι</i><par n="λυτ/ός__adj"/></e>
+  <e lm="φιλικός" a="grguest"><i>φιλι</i><par n="λυτ/ός__adj"/></e>
+  <e lm="χαρούμενος" a="grguest"><i>χαρούμε</i><par n="υδρόβι/ος__adj"/></e>
+  <e lm="χρηματοδότηση" a="grguest"><i>χρηματοδότηση</i><par n="γη__n_f"/></e>
+  <e lm="ακαδημαϊκός"><i>ακαδημαϊκ</i><par n="λυτ/ός__adj"/></e>
 
 
   </section>
