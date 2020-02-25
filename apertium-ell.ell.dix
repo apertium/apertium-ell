@@ -279,7 +279,7 @@
 
     <!-- SECTION: Nouns -->
 
-    <pardef n="αεροφοβ/ία_f">      
+    <pardef n="αεροφοβ/ία__n_f">
       <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ίας</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -290,7 +290,7 @@
       <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
 
-    <pardef n="ακρ/όαση_f">      
+    <pardef n="ακρ/όαση__n_f">
       <e><p><l>όαση</l><r>όαση<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>όσης</l><r>όαση<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>όαση</l><r>όαση<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -312,7 +312,7 @@
       <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
 
-    <pardef n="αιμ/άτωμα_nt">      
+    <pardef n="αιμ/άτωμα__n_nt">      
       <e><p><l>άτωμα</l><r>άτωμα<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ατώματος</l><r>άτωμα<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>άτωμα</l><r>άτωμα<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -323,7 +323,7 @@
       <e><p><l>ατώματα</l><r>άτωμα<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
 
-    <pardef n="άθλ/ος_m">      
+    <pardef n="άθλ/ος__n_m">      
       <e><p><l>ος</l><r>ος<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ου</l><r>ος<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ο</l><r>ος<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -334,7 +334,7 @@
       <e><p><l>οι</l><r>ος<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
 
-    <pardef n="αθανασ/ία_f">      
+    <pardef n="αθανασ/ία__n_f">      
       <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ίας</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -345,7 +345,7 @@
       <e><p><l>ίες</l><r>ία<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
 
-    <pardef n="αερονα/ύτης_n_m">      
+    <pardef n="αερονα/ύτης__n_m">      
       <e><p><l>ύτης</l><r>ύτης<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ύτη</l><r>ύτης<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ύτη</l><r>ύτης<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -356,7 +356,7 @@
       <e><p><l>ύτες</l><r>ύτης<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
 
-    <pardef n="αεροθ/άλαμος_n_m">      
+    <pardef n="αεροθ/άλαμος__n_m">      
       <e><p><l>άλαμος</l><r>άλαμος<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>αλάμου</l><r>άλαμοςο<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>άλαμο</l><r>άλαμος<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -789,7 +789,7 @@
       <e><p><l>η</l><r>ύνη<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
     </pardef>
 
-    <pardef n="/αγαλακτία_n_f">    
+    <pardef n="/αγαλακτία__n_f">
       <e><p><l>αγαλακτία</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>αγαλακτίας</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>αγαλακτία</l><r>αγαλακτία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -811,7 +811,7 @@
       <e><p><l>ύνες</l><r>ύνη<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
 
-    <pardef n="αβοκάντ/ο_n_nt">     
+    <pardef n="αβοκάντ/ο__n_f">
       <e><p><l>ο</l><r>ο<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ου</l><r>ο<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ο</l><r>ο<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -840,7 +840,7 @@
       <e><p><l>α</l><r>α<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
     </pardef>
 
-    <pardef n="αβαρ/ία__n_f">     
+    <pardef n="αβαρ/όα__n_f">     
       <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>ίας</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ία</l><r>ία<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -12881,7 +12881,7 @@
     <e lm="αθανασία"><i>αθανασ</i><par n="αθανασ/ία__n_f"/></e>
     <e lm="άθλος"><i>αθλ</i><par n="άθλ/ος__n_m"/></e>
     <e lm="αιμάτωμα"><i>αιμ</i><par n="αιμ/άτωμα__n_nt"/></e>
-    <e lm="ακολασία"><i>ακολασ</i><par n="ακολασ/ία__n_f"/></e>
+    <!-- e lm="ακολασία"><i>ακολασ</i><par n="ακολασ/ία__n_f"/></e --><!-- paradigm not defined -->
     <e lm="ακρόαση"><i>ακρ</i><par n="ακρ/όαση__n_f"/></e> 
     <e lm="αεροφοβία"><i>αερο</i><par n="αεροφοβ/ία__n_f"/></e>                          
     <e lm="σύμπτωση"><i>σ</i><par n="σ/ύμπτωση__n_f"/></e>
