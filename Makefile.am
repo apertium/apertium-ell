@@ -2,8 +2,6 @@
 ## Makefile for apertium-ell
 ###############################################################################
 
-RELEASE=0.1
-VERSION=0.1.0
 LANG1=ell
 BASENAME=apertium-$(LANG1)
 
@@ -81,6 +79,7 @@ noinst_DATA=modes/$(LANG1)-morph.mode
 
 install-data-local: install-modes
 	test -d $(DESTDIR)$(apertium_ell_srcdir) || mkdir -p $(DESTDIR)$(apertium_ell_srcdir)
+	$(INSTALL_DATA) $(BASENAME).$(LANG1).acx $(DESTDIR)$(apertium_ell_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).dix $(DESTDIR)$(apertium_ell_srcdir)
 	$(INSTALL_DATA) $(BASENAME).$(LANG1).rlx $(DESTDIR)$(apertium_ell_srcdir)
 	$(INSTALL_DATA) $(BASENAME).post-$(LANG1).dix $(DESTDIR)$(apertium_ell_srcdir)
@@ -98,4 +97,3 @@ test: all
 	@echo "TODO test analysis results" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-
