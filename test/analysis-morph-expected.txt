@@ -1,0 +1,24 @@
+[0kWYt0vE11gU#0] ^έγρύτίσί/*έγρύτίσί$
+[/0kWYt0vE11gU]
+[B0E6UYkT7zcP#0] ^ΣA/ΣA<adv>$
+[/B0E6UYkT7zcP]
+[CxtUwCE99G2L#0] ^στη/σε<pr>+ο<det><def><f><sg><acc>$
+[/CxtUwCE99G2L]
+[GzPlsqyayXQ2#0] ^Έλλδεσρέιρμ/*Έλλδεσρέιρμ$
+[/GzPlsqyayXQ2]
+[P7g2JlmlwMeH#0] ^στα/εις<pr>+ο<det><def><nt><sg><acc>$
+[/P7g2JlmlwMeH]
+[QbgF6nrAFOI1#0] ^;/;<sent>$
+[/QbgF6nrAFOI1]
+[a1HUMd9dfxQc#0] ^12/12<num>$
+[/a1HUMd9dfxQc]
+[e_yZzFDvwuWP#0] ^ισνοχυταω/*ισνοχυταω$
+[/e_yZzFDvwuWP]
+[hSeokeIkE2lQ#0] ^14/14<num>$
+[/hSeokeIkE2lQ]
+[llpFbO_HEFAw#0] ^στον/σε<pr>+ο<det><def><m><sg><acc>/σε<pr>+ο<det><def><nt><sg><nom>/σε<pr>+ο<det><def><nt><sg><acc>$
+[/llpFbO_HEFAw]
+[u3IIvJtdfATx#0] ^!/!<sent>$
+[/u3IIvJtdfATx]
+[zbTuKuppzGqD#0] ^./.<sent>$
+[/zbTuKuppzGqD]
